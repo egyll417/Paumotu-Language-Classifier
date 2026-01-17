@@ -1,0 +1,25 @@
+Speaker,Sentence,Glottal_Tokens,Eligible_Tokens,Loanword_Tokens,Total_Content_Words,Glottal_Rate,Loanword_Rate
+Speaker 1,Sentence 1,0.0,5.0,0.0,3.0,0.0,0.0
+Speaker 1,Sentence 2,2.0,5.0,1.0,4.0,0.4,0.25
+Speaker 1,Sentence 3,2.0,4.0,2.0,4.0,0.5,0.5
+Speaker 1,Sentence 4,1.0,3.0,1.0,3.0,0.33,0.33
+Speaker 1,Sentence 5,0.0,7.0,0.0,3.0,0.0,0.0
+Speaker 2,Sentence 1,4.0,7.0,1.0,4.0,0.57,0.25
+Speaker 2,Sentence 2,3.0,3.0,2.0,4.0,1.0,0.5
+Speaker 2,Sentence 3,3.0,7.0,2.0,5.0,0.43,0.4
+Speaker 2,Sentence 4,1.0,2.0,1.0,2.0,0.5,0.5
+Speaker 2,Sentence 5,3.0,7.0,1.0,4.0,0.43,0.25
+Speaker 3,Sentence 1,1.0,5.0,0.0,3.0,0.2,0.0
+Speaker 3,Sentence 2,1.0,4.0,0.0,4.0,0.25,0.0
+Speaker 3,Sentence 4,1.0,2.0,0.0,2.0,0.5,0.0
+Speaker 3,Sentence 5,3.0,5.0,1.0,4.0,0.6,0.25
+Speaker 4,Sentence 1,2.0,5.0,0.0,3.0,0.4,0.0
+Speaker 4,Sentence 2,5.0,6.0,1.0,4.0,0.83,0.25
+Speaker 4,Sentence 3,4.0,4.0,2.0,4.0,1.0,0.5
+Speaker 4,Sentence 4,1.0,2.0,1.0,2.0,0.5,0.5
+Speaker 4,Sentence 5,7.0,10.0,2.0,4.0,0.7,0.5
+Speaker 5,Sentence 1,1.0,5.0,0.0,3.0,0.2,0.0
+Speaker 5,Sentence 2,5.0,8.0,1.0,4.0,0.63,0.25
+Speaker 5,Sentence 3,5.0,5.0,2.0,5.0,1.0,0.4
+Speaker 5,Sentence 4,1.0,3.0,1.0,3.0,0.33,0.33
+Speaker 5,Sentence 5,6.0,8.0,3.0,4.0,0.75,0.75
